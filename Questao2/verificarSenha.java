@@ -33,8 +33,8 @@ public class verificarSenha {
             }
         }
         if(letrasMaisculas ==1 && letrasMinusculas ==1 && digitos ==1 && caracteresEspeciais ==1)
-            System.out.println("\nSenha Forte");
+            System.out.println("\nThe Password is Strong.");
         else
-            System.out.println("\nSenha fraca");
+            System.out.println("\nThe Password is Weak.");
     }
 }
