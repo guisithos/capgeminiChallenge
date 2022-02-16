@@ -1,6 +1,13 @@
 import java.util.Scanner;
 
 public class ladder {
+    
+        /**
+     * @param args /**
+     * int ladderLenght será nosso input para calcular o numero de
+     * degraus. |
+     * int i, j serao linhas e colunas respectivamente.
+     */
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
