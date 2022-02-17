@@ -27,7 +27,7 @@ public class verificaAnagrama {
         int contaPares = 0;
         for (String key: map.keySet()) {
             int n = map.get(key);
-            contaPares += (n * (n-1))/2;
+            contaPares += (n * (n-1)) /2;
         }
         System.out.println(contaPares);
     }
