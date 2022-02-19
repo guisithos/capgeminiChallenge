@@ -9,7 +9,7 @@ import static org.junit.jupiter.api.Assertions.*;
 class criarEscadaTest {
     @Test
     void testeDegraus() {
-        List<String> degrausEsperado = new ArrayList<>();
+        List<String> degrausInput = new ArrayList<>();
         degrausEsperado.add("      *");
         degrausEsperado.add("     **");
         degrausEsperado.add("    ***");
