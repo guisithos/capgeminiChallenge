@@ -18,7 +18,7 @@ Este repo contém as solucoes das questoes da Academia Capgemini, com código co
  - Necessita da JDK 17 e uma IDE de sua escolha (IntelliJ, Eclipse, BlueJ);
  - Recomenda-se clonar o repo com git clone, ou simplesmente copiar o código e executar;
  - Para os testes, dependencia JUnit.
- - 
+ 
  
  
  ## Obs
