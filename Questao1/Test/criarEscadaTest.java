@@ -13,9 +13,7 @@ class criarEscadaTest {
         degrausEsperado.add("      *");
         degrausEsperado.add("     **");
         degrausEsperado.add("    ***");
-        degrausEsperado.add("   ****");
-        degrausEsperado.add("  *****");
-        degrausEsperado.add(" ******");
+
 
         List <String> degraus = new criarEscada(6);
 
